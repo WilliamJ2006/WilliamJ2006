@@ -1,4 +1,4 @@
-# Hi, I'm _____ 👋
+# Hi, I'm __William___ 👋
 
 ## 👨‍🏫 About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
