@@ -1,10 +1,10 @@
-# Hi, I'm __William___ 👋
+# Hi, I'm William 👋
 
 ## 👨‍🏫 About Me
 - Student at the [Marcy Lab School](https://www.marcylabschool.org/) studying to become a Software Engineer
-- Born in __Brooklyn___ → Raised in _Brooklyn____ → Currently in ___Brooklyn__.
-- Outside of work I like to __hang out with friends or try new things___
-- Let's connect via email: __william.jiang1101@gmail.com___
+- Born in Brooklyn → Raised in Brooklyn → Currently in Brooklyn.
+- Outside of work I like to hang out with friends or try new things
+- Let's connect via email: william.jiang1101@gmail.com
 
 ## Tech Stack:
 
