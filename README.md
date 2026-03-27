@@ -13,6 +13,7 @@
 
 ### Frameworks & Libraries
 - Node.js
+- Express
 
 ### Tools
 - Git
